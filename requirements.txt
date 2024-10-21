@@ -15,9 +15,6 @@ coverage
 coveralls
 cryptography
 Django
-docker
-docker-compose
-dockerpty
 docopt
 docutils
 flake8
