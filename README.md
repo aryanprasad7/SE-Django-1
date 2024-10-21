@@ -1,4 +1,4 @@
-## Django Tutorial Polls App
+## Django Tutorial Polls App 
 
 [![Build Status](https://app.travis-ci.com/aryanprasad7/SE-Django-1.svg?token=gZFLquVHo7ZPGVRcsxqJ&branch=main)](https://app.travis-ci.com/aryanprasad7/SE-Django-1)
 
